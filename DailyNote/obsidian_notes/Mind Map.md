@@ -1,0 +1,1 @@
+![[image_mindmap_example.png]]
