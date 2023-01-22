@@ -1,1 +1,0 @@
-https://gitee.com/juqkai/obsidian-proxy-github

@@ -1,9 +1,9 @@
 # WIN10版
 1. 下载.msi文件安装；或者.zip文件解压后将nvim.exe所在bin加为环境变量，比如我是 `D:\Neovim\bin`，就将这个路径加到系统变量的Path下
- ![[nvim_add_to_path.png]]
+ ![[NvimAddToPath.png]]
 2. 使用 `powershell` 作为 terminal，注意不是 `windows powershell`
 3. 打开nvim，执行`:checkhealth` ，有WARNING，要手动到该路径下添加`init.vim`
-![[nvim_config_warning.png]]
+![[NvimConfWarn.png]]
 4. vim-plug插件安装
 > 参考 https://github.com/junegunn/vim-plug
 ```powershell

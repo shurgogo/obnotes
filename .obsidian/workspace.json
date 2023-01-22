@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "beb9e1cb56a45025",
+    "type": "split",
+    "children": [
+      {
+        "id": "eef2e6879c93bb9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04f86ade73c9eb13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TechNote/backends/database/postgresql/pg安装.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e18c8a76d818e254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/crm/00_项目流程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d119f6f84e824c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TechNote/frontends/作用域.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb13bb742d797229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TechNote/frontends/理解cookie、session、localStorage、sessionStorage关系与区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9550a59f10415308",
+    "type": "split",
+    "children": [
+      {
+        "id": "0df9150668aed7d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fef67c31ccba977",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"### \"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "628877ae02ba3713",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "77e33763411e749f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "473d4ba563729b65",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244
+  },
+  "right": {
+    "id": "974da6c8a8cc8257",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c193c6ad1893d28",
+        "type": "tabs",
+        "dimension": 50.82872928176796,
+        "children": [
+          {
+            "id": "d46e3f65afd671e4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d970d16fb8415f5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1942698baa3b3eee",
+        "type": "tabs",
+        "dimension": 49.17127071823204,
+        "children": [
+          {
+            "id": "d8275bc93ae2404e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TechNote/frontends/理解cookie、session、localStorage、sessionStorage关系与区别.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7af0f6e9946c1969",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TechNote/frontends/理解cookie、session、localStorage、sessionStorage关系与区别.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfe90ef4e282db17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TechNote/frontends/理解cookie、session、localStorage、sessionStorage关系与区别.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "eb13bb742d797229",
+  "lastOpenFiles": [
+    "TechNote/frontends/作用域.md",
+    "TechNote/frontends/理解cookie、session、localStorage、sessionStorage关系与区别.md",
+    "DailyNote/markdown/mermaid图画示例.md",
+    "Project/crm/00_项目流程.md",
+    "TechNote/backends/software_engineering/code_complete/code_complete.md",
+    "TechNote/git/VersionControl.md",
+    "Project/logistics/logistics.md",
+    "TechNote/backends/database/数据库范式.md",
+    "TechNote/backends/database/postgresql/pg安装.md",
+    "TechNote/backends/software_engineering/开发生命周期.md"
+  ]
+}

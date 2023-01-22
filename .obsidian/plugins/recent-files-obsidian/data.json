@@ -1,0 +1,169 @@
+{
+  "recentFiles": [
+    {
+      "basename": "理解cookie、session、localStorage、sessionStorage关系与区别",
+      "path": "TechNote/frontends/理解cookie、session、localStorage、sessionStorage关系与区别.md"
+    },
+    {
+      "basename": "作用域",
+      "path": "TechNote/frontends/作用域.md"
+    },
+    {
+      "basename": "mermaid图画示例",
+      "path": "DailyNote/markdown/mermaid图画示例.md"
+    },
+    {
+      "basename": "00_项目流程",
+      "path": "Project/crm/00_项目流程.md"
+    },
+    {
+      "basename": "code_complete",
+      "path": "TechNote/backends/software_engineering/code_complete/code_complete.md"
+    },
+    {
+      "basename": "VersionControl",
+      "path": "TechNote/git/VersionControl.md"
+    },
+    {
+      "basename": "logistics",
+      "path": "Project/logistics/logistics.md"
+    },
+    {
+      "basename": "数据库范式",
+      "path": "TechNote/backends/database/数据库范式.md"
+    },
+    {
+      "basename": "pg安装",
+      "path": "TechNote/backends/database/postgresql/pg安装.md"
+    },
+    {
+      "basename": "开发生命周期",
+      "path": "TechNote/backends/software_engineering/开发生命周期.md"
+    },
+    {
+      "basename": "用hugo创建个人博客",
+      "path": "DailyNote/hugo/用hugo创建个人博客.md"
+    },
+    {
+      "basename": "elk",
+      "path": "TechNote/backends/docker/elk.md"
+    },
+    {
+      "basename": "GoGrpc",
+      "path": "TechNote/backends/golang/GoGrpc.md"
+    },
+    {
+      "basename": "Go远程配置(vscod)",
+      "path": "TechNote/backends/golang/Go远程配置(vscod).md"
+    },
+    {
+      "basename": "Go环境配置",
+      "path": "TechNote/backends/golang/Go环境配置.md"
+    },
+    {
+      "basename": "Go工具go tools",
+      "path": "TechNote/backends/golang/Go工具go tools.md"
+    },
+    {
+      "basename": "CDN",
+      "path": "TechNote/backends/internet/CDN/CDN.md"
+    },
+    {
+      "basename": "Showcase",
+      "path": "DailyNote/hugo/Showcase.png"
+    },
+    {
+      "basename": "AdvancedTables",
+      "path": "DailyNote/ObsidianNotes/AdvancedTables.md"
+    },
+    {
+      "basename": "Mindmap connector",
+      "path": "Excalidraw/Scripts/Downloaded/Mindmap connector.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "DailyNote/editors/PowerShell.md"
+    },
+    {
+      "basename": "ThemeUEW",
+      "path": "DailyNote/editors/ThemeUEW.png"
+    },
+    {
+      "basename": "ObsidianCharts",
+      "path": "DailyNote/ObsidianNotes/ObsidianCharts.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "DailyNote/ObsidianNotes/Obsidian.md"
+    },
+    {
+      "basename": "MindMap",
+      "path": "DailyNote/ObsidianNotes/MindMap.png"
+    },
+    {
+      "basename": "ImgBoard",
+      "path": "DailyNote/ObsidianNotes/ImgBoard.png"
+    },
+    {
+      "basename": "GithubProxy",
+      "path": "DailyNote/ObsidianNotes/GithubProxy.md"
+    },
+    {
+      "basename": "MindMap",
+      "path": "DailyNote/ObsidianNotes/MindMap.md"
+    },
+    {
+      "basename": "Mindmap connector",
+      "path": "Excalidraw/Scripts/Downloaded/Mindmap connector.svg"
+    },
+    {
+      "basename": "README.md",
+      "path": "README.md.md"
+    },
+    {
+      "basename": "logistics.excalidraw",
+      "path": "Project/logistics/logistics.excalidraw.md"
+    },
+    {
+      "basename": "quickSort.excalidraw",
+      "path": "Agorithm/sort/quickSort.excalidraw.md"
+    },
+    {
+      "basename": "quickSort",
+      "path": "Agorithm/sort/quickSort.md"
+    },
+    {
+      "basename": "01_模板语法",
+      "path": "TechNote/frontends/vue/01_模板语法.md"
+    },
+    {
+      "basename": "Excalidraw",
+      "path": "DailyNote/ObsidianNotes/Excalidraw.md"
+    },
+    {
+      "basename": "ImgScript",
+      "path": "DailyNote/ObsidianNotes/ImgScript.png"
+    },
+    {
+      "basename": "Vue Mind Map",
+      "path": "TechNote/frontends/vue/Vue Mind Map.md"
+    },
+    {
+      "basename": "02_数据绑定",
+      "path": "TechNote/frontends/vue/02_数据绑定.md"
+    },
+    {
+      "basename": "03_MVVM模型",
+      "path": "TechNote/frontends/vue/03_MVVM模型.md"
+    },
+    {
+      "basename": "00_环境搭建",
+      "path": "TechNote/frontends/vue/00_环境搭建.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "maxLength": null,
+  "openType": "tab"
+}

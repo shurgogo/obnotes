@@ -19,4 +19,4 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\uew.omp.json" | Invoke-Expr
 其中 `$env:POSH_THEMES_PATH` 是安装后默认创建的环境变量，`--config` 的路径可以自定义，第二条命令可以在当前终端反复执行，方便查看效果
 
 5. ENJOY!
- ![[ps_uew.png]]
+ ![[ThemeUEW.png]]
