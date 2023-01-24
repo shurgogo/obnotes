@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "理解cookie、session、localStorage、sessionStorage关系与区别",
-      "path": "TechNote/frontends/理解cookie、session、localStorage、sessionStorage关系与区别.md"
-    },
-    {
       "basename": "作用域",
       "path": "TechNote/frontends/作用域.md"
     },
     {
-      "basename": "mermaid图画示例",
-      "path": "DailyNote/markdown/mermaid图画示例.md"
-    },
-    {
       "basename": "00_项目流程",
       "path": "Project/crm/00_项目流程.md"
+    },
+    {
+      "basename": "理解cookie、session、localStorage、sessionStorage关系与区别",
+      "path": "TechNote/frontends/理解cookie、session、localStorage、sessionStorage关系与区别.md"
+    },
+    {
+      "basename": "mermaid图画示例",
+      "path": "DailyNote/markdown/mermaid图画示例.md"
     },
     {
       "basename": "code_complete",
@@ -74,7 +74,7 @@
     },
     {
       "basename": "AdvancedTables",
-      "path": "DailyNote/ObsidianNotes/AdvancedTables.md"
+      "path": "DailyNote/obplugins/AdvancedTables.md"
     },
     {
       "basename": "Mindmap connector",
@@ -90,27 +90,27 @@
     },
     {
       "basename": "ObsidianCharts",
-      "path": "DailyNote/ObsidianNotes/ObsidianCharts.md"
+      "path": "DailyNote/obplugins/ObsidianCharts.md"
     },
     {
       "basename": "Obsidian",
-      "path": "DailyNote/ObsidianNotes/Obsidian.md"
+      "path": "DailyNote/obplugins/Obsidian.md"
     },
     {
       "basename": "MindMap",
-      "path": "DailyNote/ObsidianNotes/MindMap.png"
+      "path": "DailyNote/obplugins/MindMap.png"
     },
     {
       "basename": "ImgBoard",
-      "path": "DailyNote/ObsidianNotes/ImgBoard.png"
+      "path": "DailyNote/obplugins/ImgBoard.png"
     },
     {
       "basename": "GithubProxy",
-      "path": "DailyNote/ObsidianNotes/GithubProxy.md"
+      "path": "DailyNote/obplugins/GithubProxy.md"
     },
     {
       "basename": "MindMap",
-      "path": "DailyNote/ObsidianNotes/MindMap.md"
+      "path": "DailyNote/obplugins/MindMap.md"
     },
     {
       "basename": "Mindmap connector",
@@ -138,11 +138,11 @@
     },
     {
       "basename": "Excalidraw",
-      "path": "DailyNote/ObsidianNotes/Excalidraw.md"
+      "path": "DailyNote/obplugins/Excalidraw.md"
     },
     {
       "basename": "ImgScript",
-      "path": "DailyNote/ObsidianNotes/ImgScript.png"
+      "path": "DailyNote/obplugins/ImgScript.png"
     },
     {
       "basename": "Vue Mind Map",
