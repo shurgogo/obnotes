@@ -1,3 +1,4 @@
+- 时序图
 ```mermaid
 sequenceDiagram
     小程序 ->> 小程序 : wx.login()获取code

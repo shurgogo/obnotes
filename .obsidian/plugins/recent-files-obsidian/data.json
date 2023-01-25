@@ -1,52 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "作用域",
-      "path": "TechNote/frontends/作用域.md"
+      "basename": "Architecture",
+      "path": "Project/v2ray-tui/v2ray-core/Architecture.md"
     },
     {
-      "basename": "00_项目流程",
-      "path": "Project/crm/00_项目流程.md"
+      "basename": "v2ray-tui工作流程.excalidraw",
+      "path": "Project/v2ray-tui/v2ray-tui工作流程.excalidraw.md"
     },
     {
-      "basename": "理解cookie、session、localStorage、sessionStorage关系与区别",
-      "path": "TechNote/frontends/理解cookie、session、localStorage、sessionStorage关系与区别.md"
+      "basename": "未命名",
+      "path": "Project/v2ray-tui/未命名.md"
     },
     {
-      "basename": "mermaid图画示例",
-      "path": "DailyNote/markdown/mermaid图画示例.md"
+      "basename": "Config",
+      "path": "Project/v2ray-tui/v2ray-core/Config.md"
     },
     {
-      "basename": "code_complete",
-      "path": "TechNote/backends/software_engineering/code_complete/code_complete.md"
+      "basename": "What happens?",
+      "path": "Project/v2ray-tui/v2ray-core/What happens?.md"
     },
     {
-      "basename": "VersionControl",
-      "path": "TechNote/git/VersionControl.md"
+      "basename": "未命名",
+      "path": "Project/v2ray-tui/v2ray-core/未命名.md"
     },
     {
-      "basename": "logistics",
-      "path": "Project/logistics/logistics.md"
+      "basename": "PowerShell",
+      "path": "DailyNote/editors/PowerShell.md"
+    },
+    {
+      "basename": "Neovim",
+      "path": "DailyNote/editors/Neovim.md"
+    },
+    {
+      "basename": "arch",
+      "path": "Project/v2ray-tui/v2ray-core/arch.svg"
+    },
+    {
+      "basename": "v2rayU彻底删除",
+      "path": "DailyNote/v2rayU彻底删除.md"
+    },
+    {
+      "basename": "GoTools",
+      "path": "TechNote/backends/golang/GoTools.md"
+    },
+    {
+      "basename": "Elk",
+      "path": "TechNote/backends/docker/Elk.md"
     },
     {
       "basename": "数据库范式",
       "path": "TechNote/backends/database/数据库范式.md"
     },
     {
-      "basename": "pg安装",
-      "path": "TechNote/backends/database/postgresql/pg安装.md"
+      "basename": "Mermaid",
+      "path": "DailyNote/markdown/Mermaid.md"
     },
     {
-      "basename": "开发生命周期",
-      "path": "TechNote/backends/software_engineering/开发生命周期.md"
+      "basename": "README.md",
+      "path": "README.md.md"
+    },
+    {
+      "basename": "作用域",
+      "path": "TechNote/frontends/作用域.md"
+    },
+    {
+      "basename": "理解cookie、session、localStorage、sessionStorage关系与区别",
+      "path": "TechNote/frontends/理解cookie、session、localStorage、sessionStorage关系与区别.md"
+    },
+    {
+      "basename": "VueMindMap",
+      "path": "TechNote/frontends/vue/VueMindMap.md"
+    },
+    {
+      "basename": "CodeComplete",
+      "path": "TechNote/software_engineering/code_complete/CodeComplete.md"
+    },
+    {
+      "basename": "软件开发过程中的各种不同的活动",
+      "path": "TechNote/software_engineering/code_complete/软件开发过程中的各种不同的活动.md"
+    },
+    {
+      "basename": "VersionControl",
+      "path": "TechNote/git/VersionControl.md"
+    },
+    {
+      "basename": "Clis",
+      "path": "TechNote/backends/database/postgresql/Clis.md"
+    },
+    {
+      "basename": "Installation",
+      "path": "TechNote/backends/database/postgresql/Installation.md"
+    },
+    {
+      "basename": "GoLearn",
+      "path": "TechNote/backends/golang/GoLearn.md"
+    },
+    {
+      "basename": "logistics",
+      "path": "Project/logistics/logistics.md"
+    },
+    {
+      "basename": "00_项目流程",
+      "path": "Project/crm/00_项目流程.md"
     },
     {
       "basename": "用hugo创建个人博客",
       "path": "DailyNote/hugo/用hugo创建个人博客.md"
-    },
-    {
-      "basename": "elk",
-      "path": "TechNote/backends/docker/elk.md"
     },
     {
       "basename": "GoGrpc",
@@ -59,10 +119,6 @@
     {
       "basename": "Go环境配置",
       "path": "TechNote/backends/golang/Go环境配置.md"
-    },
-    {
-      "basename": "Go工具go tools",
-      "path": "TechNote/backends/golang/Go工具go tools.md"
     },
     {
       "basename": "CDN",
@@ -79,10 +135,6 @@
     {
       "basename": "Mindmap connector",
       "path": "Excalidraw/Scripts/Downloaded/Mindmap connector.md"
-    },
-    {
-      "basename": "PowerShell",
-      "path": "DailyNote/editors/PowerShell.md"
     },
     {
       "basename": "ThemeUEW",
@@ -117,10 +169,6 @@
       "path": "Excalidraw/Scripts/Downloaded/Mindmap connector.svg"
     },
     {
-      "basename": "README.md",
-      "path": "README.md.md"
-    },
-    {
       "basename": "logistics.excalidraw",
       "path": "Project/logistics/logistics.excalidraw.md"
     },
@@ -145,20 +193,12 @@
       "path": "DailyNote/obplugins/ImgScript.png"
     },
     {
-      "basename": "Vue Mind Map",
-      "path": "TechNote/frontends/vue/Vue Mind Map.md"
-    },
-    {
       "basename": "02_数据绑定",
       "path": "TechNote/frontends/vue/02_数据绑定.md"
     },
     {
       "basename": "03_MVVM模型",
       "path": "TechNote/frontends/vue/03_MVVM模型.md"
-    },
-    {
-      "basename": "00_环境搭建",
-      "path": "TechNote/frontends/vue/00_环境搭建.md"
     }
   ],
   "omittedPaths": [

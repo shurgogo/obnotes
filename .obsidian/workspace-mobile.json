@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "25bf77f894014683",
+    "type": "split",
+    "children": [
+      {
+        "id": "b25c4f6c252fbccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac0ba09a9803f9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/v2ray-tui/v2ray-core/Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d92b0ce92f1d8d01",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "453104466bf19569",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b7c80a2b67f79bd2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "74dbbbcf530bc39d",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a8f8caa00acfd072",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0ac7cb5d9543c3ce",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Project/v2ray-tui/v2ray-core/Architecture.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7a0934e17623a05b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Project/v2ray-tui/v2ray-core/Architecture.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f6e56f982b7b3f44",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Project/v2ray-tui/v2ray-core/Architecture.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ac0ba09a9803f9fc",
+  "lastOpenFiles": [
+    "Project/v2ray-tui/v2ray-tui工作流程.excalidraw.md"
+  ]
+}

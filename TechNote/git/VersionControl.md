@@ -1,23 +1,20 @@
-# Git flow
-Manage a project with git
 
 ## Acknowledgements
 
 - [Learn Git](https://www.atlassian.com/git/workflows#!workflow-gitflow)
-
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model)
 
-## How gitflow works
+## How Git Flow Works
 
 ![image](https://blog.didispace.com/content/images/posts/gitflow-info-5.png)
 
   
 
-### Prepare Works
+### Prepare Work
 
 Clone a repo with "master" branch
 ```bash
-git clone xxx.git
+git clone -b master xxx.git
 ```
 
 Create the "develop" branch from "master" branch
@@ -50,6 +47,7 @@ git branch -d feature
 ```
 
 ### Release
+
 ```bash
 git checkout -b release-0.1 develop
 ```
@@ -84,6 +82,7 @@ git checkout develop
 git merge bugfix#001
 git push
 ```
+
 
 ## Version Number
 a.b.c.xxx
