@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e07eda496003bc03",
+        "id": "2f3d273fba63ec41",
         "type": "tabs",
         "children": [
           {
-            "id": "1456490a2833a594",
+            "id": "580931b46edf4f8c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Project/v2ray-tui/v2ray-tui工作流程.excalidraw.md"
+                "file": "TechNote/software_engineering/code_complete/images/设计的层次.png"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/v2ray-tui/v2ray-tui工作流程.excalidraw.md",
+                "file": "TechNote/software_engineering/code_complete/images/设计的层次.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/v2ray-tui/v2ray-tui工作流程.excalidraw.md",
+                "file": "TechNote/software_engineering/code_complete/images/设计的层次.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/v2ray-tui/v2ray-tui工作流程.excalidraw.md"
+                "file": "TechNote/software_engineering/code_complete/images/设计的层次.png"
               }
             }
           }
@@ -162,21 +162,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "1456490a2833a594",
+  "active": "580931b46edf4f8c",
   "lastOpenFiles": [
-    "Project/v2ray-tui/未命名.md",
+    "Project/v2ray-tui/v2ray-core/WhatHappens.md",
+    "Excalidraw/draw.excalidraw.md",
+    "DailyNote/editors/iTerm2.md",
+    "DailyNote/editors/neovim/macOS.md",
     "Project/v2ray-tui/v2ray-tui工作流程.excalidraw.md",
+    "Project/v2ray-tui/v2rayN.png",
+    "Project/v2ray-tui/tui-base.png",
+    "Pasted Image 20230127234501_120.png",
     "Project/v2ray-tui/v2ray-core/Config.md",
-    "Project/v2ray-tui/v2ray-core/What happens?.md",
-    "Project/v2ray-tui/v2ray-core/Architecture.md",
-    "Project/v2ray-tui/v2ray-core/未命名.md",
-    "DailyNote/editors/PowerShell.md",
-    "DailyNote/editors/Neovim.md",
-    "Project/v2ray-tui/v2ray-core/arch.svg",
-    "Project/v2ray-tui/架构.png"
+    "Project/v2ray-tui/v2ray-core/Architecture.md"
   ]
 }

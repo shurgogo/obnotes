@@ -1,16 +1,16 @@
 
-## Acknowledgements
+# Acknowledgements
 
 - [Learn Git](https://www.atlassian.com/git/workflows#!workflow-gitflow)
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model)
 
-## How Git Flow Works
+# How Git Flow Works
 
 ![image](https://blog.didispace.com/content/images/posts/gitflow-info-5.png)
 
   
 
-### Prepare Work
+## Prepare Work
 
 Clone a repo with "master" branch
 ```bash
@@ -24,7 +24,7 @@ git branch develop
 git push -u origin develop
 ```
 
-### Feature Development
+## Feature Development
 
 Checkout the "feature" branch from "develop", not "master"
 ```bash
@@ -46,7 +46,7 @@ git push
 git branch -d feature
 ```
 
-### Release
+## Release
 
 ```bash
 git checkout -b release-0.1 develop
@@ -71,7 +71,7 @@ git push --tags
 ```
 - Some Hooks(CI/CD)
 
-### Bug fix
+## Bug fix
 ```bash
 git checkout -b bugfix#001 master
 \# some fix work
@@ -84,7 +84,7 @@ git push
 ```
 
 
-## Version Number
+# Version Number
 a.b.c.xxx
 - a
 

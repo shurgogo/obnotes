@@ -1,6 +1,6 @@
-## cookie  
+# cookie  
 
-### cookie 是什么
+## cookie 是什么
 
 由于**HTTP是一种无状态的协议**，服务器单从网络连接上是无法知道客户身份的。这时候服务器就需要给客户端颁发一个cookie，用来确认用户的身份。
 
@@ -8,7 +8,7 @@
 
 >原理: web 服务器通过在 http 响应消息头增加 Set-Cookie 响应头字段将 Cookie 信息发送给浏览器，浏览器则通过在 http 请求消息中增加 Cookie 请求头字段将 Cookie 回传给 web 服务器。
 
-### cookie 构成
+## cookie 构成
 **服务器端**向**客户端**发送 Cookie 是通过 HTTP 响应报文实现的，在 Set-Cookie 中设置需要向客户端发送的 cookie，cookie 格式如下：
 ```text
 Set-Cookie: "name=value;domain=.domain.com;path=/;expires=Sat, 11 Jun 2019 11:29:42 GMT;HttpOnly;secure"
@@ -35,15 +35,15 @@ cookie 并不提供修改、删除操作
 
 **注意：修改、删除 Cookie 时，新建的 Cookie 除 value、maxAge 之外的所有属性，例如 name、path、domain 等，都要与原 Cookie 完全一样。否则，浏览器将视为两个不同的 Cookie 不予覆盖，导致修改、删除失败。**
 
-## session
+# session
 
-### session 是什么
+## session 是什么
 
 Session 是另一种记录客户状态的机制，不同的是 Cookie 保存在客户端浏览器中，而 Session 保存在服务器上。客户端浏览器访问服务器的时候，服务器把客户端信息以某种形式记录在服务器上。
 
 客户端浏览器再次访问时只需要从该 Session 中查找该客户的状态就可以了
 
-### session 的工作步骤
+## session 的工作步骤
 
 因为HTTP协议是无状态的，Session不能依据HTTP连接来判断是否为同一个用户。于是乎：服务器向用户浏览器发送了一个名为JESSIONID的Cookie，它的值是Session的id值。其实Session依据Cookie来识别是否是同一个用户。
 
@@ -63,7 +63,7 @@ sequenceDiagram
 2. 保存 sessionID： server 将要保存的数据保存在相对应的 sessionID 之下，再将 sessionID 保存到服务器端的特定的保存 session 的内存中（如一个叫 session 的哈希表）
 3. 使用 session： client 再次访问 server，会带上首次访问时获得的值为 sessionID 的 cookie，server 读取 cookie 中的 sessionID，根据 sessionID 到保存 session 的内存寻找与 sessionID 匹配的数据，若寻找成功就将数据返回给 client
 
-### session 的有效期
+## session 的有效期
 
 Session 保存在服务器端。为了获得更高的存取速度，服务器一般把 Session 放在内存里。每个用户都会有一个独立的 Session。如果 Session 内容过于复杂，当大量客户访问服务器时可能会导致内存溢出。因此，Session 里的信息应该尽量精简。
 
@@ -71,7 +71,7 @@ Session 生成后，只要用户继续访问，服务器就会更新 Session 的
 
 由于会有越来越多的用户访问服务器，因此 Session 也会越来越多。为防止内存溢出，服务器会把长时间内没有活跃的 Session 从内存删除。这个时间就是 Session 的超时时间。如果超过了超时时间没访问过服务器，Session 就自动失效了。
 
-## cookie 与 session 的区别
+# cookie 与 session 的区别
 
 - Cookie数据存放在客户端，Session数据放在服务器端
 - Cookie的安全性一般，他人可通过分析存放在本地的Cookie并进行Cookie欺骗。在安全性第一的前提下，选择Session更优。重要交互信息比如权限等就要放在Session中，一般的信息记录放Cookie中
@@ -80,13 +80,13 @@ Session 生成后，只要用户继续访问，服务器就会更新 Session 的
 - Session 的运行依赖 Session ID，而 Session ID 是存在 Cookie 中的，也就是说，如果浏览器禁用了 Cookie，Session 也会失效（但是可以通过其它方式实现，比如在 url 中传递 Session ID，也就是地址重写）
 
 
-## localStorage
+# localStorage
 
-### localStorage 是什么
+## localStorage 是什么
 
 localStorage 是 HTML5 提供的一个 API，他本质上是一个 hash（哈希表），是一个存在于浏览器上的 hash（哈希表）。
 
-### localStorage 的特点
+## localStorage 的特点
 
 - localStorage 与 HTTP 没有任何关系，所以在 HTTP 请求时不会带上 localStorage 的值
 - 只有相同域名的页面才能互相读取 localStorage，**同源策略与 cookie 一致**
@@ -94,7 +94,7 @@ localStorage 是 HTML5 提供的一个 API，他本质上是一个 hash（哈希
 - 常用来记录一些不敏感的信息
 - localStorage 理论上永久有效，除非用户清理缓存
 
-### localStorage 使用方法
+## localStorage 使用方法
 
 localStorage 和 sessionStorage 使用时使用相同的 API：
 ```text
@@ -107,13 +107,13 @@ localStorage. clear ();	//清空 localStorage 中所有信息
 localStorage 是一个保存于客户端的哈希表，可以用来保存本地的一些数据。并且不会因为刷新而释放，所以，可以使用 localStorage 来实现变量的持久化存储
 
 
-## sessionStorage
+# sessionStorage
 
 sessionStorage 的所有性质基本上与 localStorage 一致，唯一的不同区别在于：
 
 sessionStorage 的有效期是页面会话持续，如果页面会话（session）结束（关闭窗口或标签页），sessionStorage 就会消失。而 localStorage 则会一直存在。
 
-## localStorage与sessionStorage的区别
+# localStorage与sessionStorage的区别
 
 - localStorage 生命周期是永久的，除非被清除，否则永久保存，而 sessionStorage 仅在当前会话下有效，关闭页面或浏览器后被清除
 

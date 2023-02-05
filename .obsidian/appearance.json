@@ -1,11 +1,12 @@
 {
   "accentColor": "",
   "theme": "system",
-  "textFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font",
   "interfaceFontFamily": "Inter",
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "yaozhuwa@CSS",
     "AnuExtendTheme"
-  ]
+  ],
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }

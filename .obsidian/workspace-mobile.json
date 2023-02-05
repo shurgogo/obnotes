@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "25bf77f894014683",
+    "id": "beb9e1cb56a45025",
     "type": "split",
     "children": [
       {
-        "id": "b25c4f6c252fbccc",
+        "id": "c6512f156bb0147b",
         "type": "tabs",
         "children": [
           {
-            "id": "ac0ba09a9803f9fc",
+            "id": "5980c8a51b195490",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/v2ray-tui/v2ray-core/Architecture.md",
+                "file": "TechNote/backends/golang/GoLearn.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,19 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d92b0ce92f1d8d01",
+    "id": "2f1f2be6db2d4145",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "453104466bf19569",
+        "id": "cf2f151367251b5a",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "2e09be741ce2b4c2",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +47,7 @@
         }
       },
       {
-        "id": "b7c80a2b67f79bd2",
+        "id": "d5dbe78c900dc6e4",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -52,29 +60,21 @@
             "sortOrder": "alphabetical"
           }
         }
-      },
-      {
-        "id": "74dbbbcf530bc39d",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
-    "id": "a8f8caa00acfd072",
+    "id": "f0e835b6ceb9056b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0ac7cb5d9543c3ce",
+        "id": "9afd2257cd16d700",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Project/v2ray-tui/v2ray-core/Architecture.md",
+            "file": "TechNote/backends/golang/GoLearn.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -86,32 +86,41 @@
         }
       },
       {
-        "id": "7a0934e17623a05b",
+        "id": "63d70f21dacf5abd",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Project/v2ray-tui/v2ray-core/Architecture.md",
+            "file": "TechNote/backends/golang/GoLearn.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "f6e56f982b7b3f44",
+        "id": "c6374cf6566fc923",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Project/v2ray-tui/v2ray-core/Architecture.md"
+            "file": "TechNote/backends/golang/GoLearn.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "ac0ba09a9803f9fc",
+  "active": "5980c8a51b195490",
   "lastOpenFiles": [
-    "Project/v2ray-tui/v2ray-tui工作流程.excalidraw.md"
+    "DailyNote/editors/Neovim.md",
+    "DailyNote/editors/PowerShell.md",
+    "TechNote/backends/docker/Elk.md",
+    "Project/v2ray-tui/v2ray-core/arch.svg",
+    "Project/v2ray-tui/v2ray-core/Config.md",
+    "Project/v2ray-tui/v2ray-core/What happens?.md",
+    "Project/v2ray-tui/v2ray-core/Architecture.md",
+    "TechNote/backends/database/数据库范式.md",
+    "Project/crm/00_项目流程.md",
+    "README.md.md"
   ]
 }
