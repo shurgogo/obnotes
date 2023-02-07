@@ -11,13 +11,48 @@
             "id": "580931b46edf4f8c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "TechNote/software_engineering/code_complete/images/设计的层次.png"
+                "file": "DailyNote/mldl/UnderstandingDeepLearning.pdf"
+              }
+            }
+          },
+          {
+            "id": "ca98a966053b8e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNote/mldl/wuenda/SupervisedLearning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "635b15f06c5b1fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNote/mldl/wuenda/SupervisedLearning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1034ce348581acce",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DailyNote/mldl/UnderstandingDeepLearning.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TechNote/software_engineering/code_complete/images/设计的层次.png",
+                "file": "DailyNote/mldl/UnderstandingDeepLearning.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TechNote/software_engineering/code_complete/images/设计的层次.png",
+                "file": "DailyNote/mldl/UnderstandingDeepLearning.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TechNote/software_engineering/code_complete/images/设计的层次.png"
+                "file": "DailyNote/mldl/UnderstandingDeepLearning.pdf"
               }
             }
           }
@@ -162,20 +197,21 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "580931b46edf4f8c",
+  "active": "1034ce348581acce",
   "lastOpenFiles": [
-    "Project/v2ray-tui/v2ray-core/WhatHappens.md",
-    "Excalidraw/draw.excalidraw.md",
-    "DailyNote/editors/iTerm2.md",
+    "DailyNote/mldl/wuenda/SupervisedLearning.md",
+    "DailyNote/mldl/UnderstandingDeepLearning.pdf",
+    "DailyNote/markdown/MathmeticalFormula.md",
+    "DailyNote/mldl/wuenda/CnEnMapping.md",
+    "DailyNote/editors/neovim/NvimAddToPath.png",
+    "DailyNote/editors/neovim/NvimConfWarn.png",
+    "DailyNote/editors/neovim/WIN10.md",
     "DailyNote/editors/neovim/macOS.md",
-    "Project/v2ray-tui/v2ray-tui工作流程.excalidraw.md",
-    "Project/v2ray-tui/v2rayN.png",
-    "Project/v2ray-tui/tui-base.png",
-    "Pasted Image 20230127234501_120.png",
-    "Project/v2ray-tui/v2ray-core/Config.md",
-    "Project/v2ray-tui/v2ray-core/Architecture.md"
+    "TechNote/software_engineering/code_complete/images/设计的层次.png",
+    "Project/v2ray-tui/v2ray-core/WhatHappens.md"
   ]
 }

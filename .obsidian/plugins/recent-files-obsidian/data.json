@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "UnderstandingDeepLearning",
+      "path": "DailyNote/mldl/UnderstandingDeepLearning.pdf"
+    },
+    {
+      "basename": "SupervisedLearning",
+      "path": "DailyNote/mldl/wuenda/SupervisedLearning.md"
+    },
+    {
+      "basename": "MathmeticalFormula",
+      "path": "DailyNote/markdown/MathmeticalFormula.md"
+    },
+    {
+      "basename": "NvimAddToPath",
+      "path": "DailyNote/editors/neovim/NvimAddToPath.png"
+    },
+    {
+      "basename": "NvimConfWarn",
+      "path": "DailyNote/editors/neovim/NvimConfWarn.png"
+    },
+    {
+      "basename": "WIN10",
+      "path": "DailyNote/editors/neovim/WIN10.md"
+    },
+    {
+      "basename": "macOS",
+      "path": "DailyNote/editors/neovim/macOS.md"
+    },
+    {
       "basename": "设计的层次",
       "path": "TechNote/software_engineering/code_complete/images/设计的层次.png"
     },
@@ -15,10 +43,6 @@
     {
       "basename": "iTerm2",
       "path": "DailyNote/editors/iTerm2.md"
-    },
-    {
-      "basename": "macOS",
-      "path": "DailyNote/editors/neovim/macOS.md"
     },
     {
       "basename": "v2ray-tui工作流程.excalidraw",
@@ -57,20 +81,8 @@
       "path": "DailyNote/editors/PowerShell.md"
     },
     {
-      "basename": "NvimAddToPath",
-      "path": "DailyNote/editors/neovim/NvimAddToPath.png"
-    },
-    {
-      "basename": "NvimConfWarn",
-      "path": "DailyNote/editors/neovim/NvimConfWarn.png"
-    },
-    {
       "basename": "ThemeUEW",
       "path": "DailyNote/editors/ThemeUEW.png"
-    },
-    {
-      "basename": "WIN10",
-      "path": "DailyNote/editors/neovim/WIN10.md"
     },
     {
       "basename": "Mermaid",
@@ -187,10 +199,6 @@
     {
       "basename": "ObsidianCharts",
       "path": "DailyNote/obplugins/ObsidianCharts.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "DailyNote/obplugins/Obsidian.md"
     }
   ],
   "omittedPaths": [
